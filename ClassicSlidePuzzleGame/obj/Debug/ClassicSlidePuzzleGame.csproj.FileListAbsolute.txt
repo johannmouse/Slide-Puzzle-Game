@@ -1,0 +1,23 @@
+C:\Users\tqvinh\source\repos\ClassicSlidePuzzleGame\ClassicSlidePuzzleGame\obj\Debug\ClassicSlidePuzzleGame.csprojAssemblyReference.cache
+C:\Users\tqvinh\source\repos\ClassicSlidePuzzleGame\ClassicSlidePuzzleGame\obj\Debug\ClassicSlidePuzzleGame.Properties.Resources.resources
+C:\Users\tqvinh\source\repos\ClassicSlidePuzzleGame\ClassicSlidePuzzleGame\obj\Debug\ClassicSlidePuzzleGame.csproj.GenerateResource.cache
+C:\Users\tqvinh\source\repos\ClassicSlidePuzzleGame\ClassicSlidePuzzleGame\obj\Debug\ClassicSlidePuzzleGame.FormEasy.resources
+C:\Users\tqvinh\source\repos\ClassicSlidePuzzleGame\ClassicSlidePuzzleGame\obj\Debug\ClassicSlidePuzzleGame.FormHard.resources
+C:\Users\tqvinh\source\repos\ClassicSlidePuzzleGame\ClassicSlidePuzzleGame\obj\Debug\ClassicSlidePuzzleGame.FormMedium.resources
+C:\Users\tqvinh\source\repos\ClassicSlidePuzzleGame\ClassicSlidePuzzleGame\obj\Debug\ClassicSlidePuzzleGame.FormMenu.resources
+C:\Users\tqvinh\source\repos\ClassicSlidePuzzleGame\ClassicSlidePuzzleGame\bin\Debug\Slide Puzzle Game.exe.config
+C:\Users\tqvinh\source\repos\ClassicSlidePuzzleGame\ClassicSlidePuzzleGame\bin\Debug\Slide Puzzle Game.exe
+C:\Users\tqvinh\source\repos\ClassicSlidePuzzleGame\ClassicSlidePuzzleGame\bin\Debug\Slide Puzzle Game.pdb
+C:\Users\tqvinh\source\repos\ClassicSlidePuzzleGame\ClassicSlidePuzzleGame\obj\Debug\Slide Puzzle Game.exe
+C:\Users\tqvinh\source\repos\ClassicSlidePuzzleGame\ClassicSlidePuzzleGame\obj\Debug\Slide Puzzle Game.pdb
+C:\Users\tqvinh\Desktop\Slide-Puzzle-Game\ClassicSlidePuzzleGame\bin\Debug\Slide Puzzle Game.exe.config
+C:\Users\tqvinh\Desktop\Slide-Puzzle-Game\ClassicSlidePuzzleGame\bin\Debug\Slide Puzzle Game.exe
+C:\Users\tqvinh\Desktop\Slide-Puzzle-Game\ClassicSlidePuzzleGame\bin\Debug\Slide Puzzle Game.pdb
+C:\Users\tqvinh\Desktop\Slide-Puzzle-Game\ClassicSlidePuzzleGame\obj\Debug\ClassicSlidePuzzleGame.FormEasy.resources
+C:\Users\tqvinh\Desktop\Slide-Puzzle-Game\ClassicSlidePuzzleGame\obj\Debug\ClassicSlidePuzzleGame.FormHard.resources
+C:\Users\tqvinh\Desktop\Slide-Puzzle-Game\ClassicSlidePuzzleGame\obj\Debug\ClassicSlidePuzzleGame.FormMedium.resources
+C:\Users\tqvinh\Desktop\Slide-Puzzle-Game\ClassicSlidePuzzleGame\obj\Debug\ClassicSlidePuzzleGame.FormMenu.resources
+C:\Users\tqvinh\Desktop\Slide-Puzzle-Game\ClassicSlidePuzzleGame\obj\Debug\ClassicSlidePuzzleGame.Properties.Resources.resources
+C:\Users\tqvinh\Desktop\Slide-Puzzle-Game\ClassicSlidePuzzleGame\obj\Debug\ClassicSlidePuzzleGame.csproj.GenerateResource.cache
+C:\Users\tqvinh\Desktop\Slide-Puzzle-Game\ClassicSlidePuzzleGame\obj\Debug\Slide Puzzle Game.exe
+C:\Users\tqvinh\Desktop\Slide-Puzzle-Game\ClassicSlidePuzzleGame\obj\Debug\Slide Puzzle Game.pdb
